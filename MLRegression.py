@@ -23,7 +23,7 @@ print("os.getcwd() returns an object of type: {0}".format(type(cwd)))
 print("Current working directory: {0}".format(os.getcwd()))
 
 # Change the current working directory
-os.chdir('/Users/tsukasamiyaji/Desktop/Python3')
+os.chdir('/Users/tsukasamiyaji/Desktop/MLR')
 
 # Print the current working directory
 print("Current working directory: {0}".format(os.getcwd()))
